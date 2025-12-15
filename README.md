@@ -7,11 +7,8 @@ ShoppingCartAnalysis is a backend service built in Go to analyze shopping cart d
 Prerequisites
 
 Go 1.24+
-
 PostgreSQL (locally or via Docker)
-
 Docker
-
 Git
 
 Database
@@ -23,19 +20,12 @@ https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
 It includes CSV files for:
 
 customers
-
 orders
-
 order_items
-
 products
-
 brands
-
 categories
-
 stores
-
 staffs
 
 These files are used to populate your PostgreSQL database for analytics in the ShoppingCartAnalysis app.
